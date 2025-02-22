@@ -1,4 +1,4 @@
-# Team 3: JP Morgan Code for Good Lodestar Children Services
+# Winning Team @ JP Morgan Code for Good Hackathon - Working with Lodestar Children Services
 
 # Problem Statement
 
